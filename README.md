@@ -10,6 +10,8 @@ This project is an interface application that sends data from a LeapMotion camer
 If you are only interested in the interface, then you can just use the .exe in the build folder, however I have also included the full Unity Project to allow for others to tweak the application to their needs.
 
 Here is a quick overview of the Application:
+_________________________________________________________________________
+
 
 ## Controls ##
 | Function | Key    |
@@ -54,7 +56,6 @@ _________________________________________________________________________
 |X Position Values			|-0.5 to 0.5				|
 |Y Position Values			|0.0 to 1.0					|
 |Z Position values			|-0.5 to 0.5				|
-|:---------------------:|:-----------------:|
 |X Velocity Values			|-3.0 to 3.0				|
 |Y Velocity Values			|-3.0 to 3.0				|
 |Z Position values			|-3.0 to 3.0				|
@@ -62,7 +63,6 @@ _________________________________________________________________________
 |Y Rotation Values			|-1.0 to 1.0				|
 |Z Rotation Values			|0.0 to 1.0					|
 |W Rotation Values			|0.0 to 1.0					|
-|:---------------------:|:-----------------:|
 |Pinch Strength					|0.0 to 1.0					|
 |Pinch Distance					|20.0 to 100.0			|
 
